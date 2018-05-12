@@ -1,0 +1,31 @@
+_repo: To-Cuba-and-Back_33455
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dana, Richard Henry
+    alias: Dana, R. H. (Richard Henry)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '803'
+    url: http://www.gutenberg.org/2009/agents/803
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
+description: ''
+gutenberg_issued: '2010-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Cuba -- Description and travel'
+- !lcc 'F1751'
+- !lcsh 'Seafaring life'
+- !lcsh 'Dana, Richard Henry, 1815-1882 -- Travel'
+title: To Cuba and Back
+url: http://www.gutenberg.org/ebooks/33455
