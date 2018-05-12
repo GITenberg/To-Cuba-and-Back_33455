@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/803
     wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33455#To-Cuba-and-Back
 gutenberg_issued: '2010-08-17'
 gutenberg_type: Text
 identifiers:
